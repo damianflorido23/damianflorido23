@@ -42,7 +42,7 @@ Durante mis prácticas y formación técnica, he trabajado con tecnologías clav
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/damianflorido)
 - 📬 damianflorido10@gmail.com
-
+- 🌐 [Portfolio web](https://damianflorido23.github.io/)
 ---
 
 > “Primero entiéndelo, luego optimízalo y, finalmente, automatízalo.”
