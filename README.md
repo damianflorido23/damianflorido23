@@ -1,40 +1,31 @@
 # 👋 ¡Hola! Soy Damián Florido
 
-🎓 Graduado en Administración de Sistemas Informáticos en Red (ASIR)  
-🚀 Motivado por convertirme en DevOps Engineer, con especial interés en Linux, la automatización, los contenedores y la integración continua.
+🎓 Graduado en Administración de Sistemas Informáticos en Red (ASIR), especializado en administración de sistemas Linux y Windows 💻. 
+Me enfoco en asegurar la estabilidad, el rendimiento y la seguridad de infraestructuras tecnológicas.
 
 ---
 
 ## ⚙️ Tecnologías y herramientas que manejo
 
-- 🐧 **Linux** – Administración básica, CLI, scripting Bash
-- 🐳 **Docker** – Contenedores, Docker Compose
-- ☸️ **Kubernetes** – Pruebas con Minikube y despliegues 
-- 🔄 **CI/CD** – Pipelines con GitLab CI/CD
-- 🧑‍💻 **Git y GitHub** – Control de versiones y colaboración
-- 📊 **Grafana** – Monitorización básica de servicios
-- 📦 **Ansible (en progreso)** – Automatización de configuración
-- ☁️ **Cloud & DevOps** – Estudiando entornos en la nube
-
----
-
-## 🛠️ Próximamente…
-
-Estoy trabajando en varios proyectos prácticos que pronto compartiré aquí, entre ellos:
-
-- 🔧 Automatización de tareas en Linux con Bash
-- 🐳 Laboratorio de contenedores Docker + Compose
-- 🔄 Pipeline CI/CD con tests, build y despliegue
-- ☸️ Despliegue en Kubernetes con YAML
-- 📊 Stack de monitorización con Prometheus + Grafana
+- 💻 **Sistemas Operativos** – Windows (cliente y servidor), Linux (Debian, Ubuntu), Active Directory (usuarios, permisos, políticas), DNS, DHCP y recursos compartidos  
+- 🌐 **Redes** – TCP/IP, configuración de IP fija/dinámica, resolución de conectividad, comandos como `ping`, `tracert`, `netstat`, y conocimientos basicos en Wireshark  
+- 🛠️ **Administración y scripting** – PowerShell y Bash (scripting básico), tareas de mantenimiento (backups, logs, actualizaciones), diagnóstico de errores  
+- 💾 **Virtualización** – Creación y gestión de máquinas virtuales con VMware y VirtualBox  
+- 🔐 **Ciberseguridad (Blue Team – en aprendizaje)** – Análisis de logs (Event Viewer, journalctl), detección de accesos fallidos (SSH, RDP), conceptos de hardening, amenazas comunes  
+- 🐳 **DevOps (Junior)** – Docker y Docker Compose, Git/GitHub para versionado y colaboración, CI/CD usando GitLab  
 
 ---
 
 ## 📌 Sobre mí
 
-Durante mis prácticas y formación técnica, he trabajado con tecnologías clave del mundo DevOps. Me organizo mediante metodologías ágiles como **Scrum**, tengo una mentalidad proactiva y me apasiona automatizar tareas para mejorar procesos y rendimiento.
+Actualmente, amplío mis conocimientos en ciberseguridad defensiva (Blue Team) 🛡️ 
+y en prácticas DevOps ⚙️ para ofrecer soluciones completas, seguras y automatizadas.
 
-🎯 Mi objetivo es seguir creciendo como profesional en entornos reales, aprendiendo constantemente y aportando desde el primer día en un equipo DevOps.
+También cuento con conocimientos en scripting Bash para automatizar procesos 
+y facilitar el trabajo diario en entornos de desarrollo y producción.
+
+Soy una persona proactiva, organizada y con ganas de seguir creciendo profesionalmente 
+en el mundo de los sistemas, la seguridad y la tecnología en general 🚀.
 
 ---
 
@@ -42,7 +33,4 @@ Durante mis prácticas y formación técnica, he trabajado con tecnologías clav
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/damianflorido)
 - 📬 damianflorido10@gmail.com
-- 🌐 [Portfolio web](https://damianflorido23.github.io/)
----
-
-> “Primero entiéndelo, luego optimízalo y, finalmente, automatízalo.”
+- 🌐 [Portfolio web](https://damianflorido23.github.
