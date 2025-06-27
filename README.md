@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Damián Florido
+# 👋 ¡Hola! Soy Damián
 
 🎓 Graduado en Administración de Sistemas Informáticos en Red (ASIR), especializado en administración de sistemas Linux y Windows 💻. 
 Me enfoco en asegurar la estabilidad, el rendimiento y la seguridad de infraestructuras tecnológicas.
